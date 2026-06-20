@@ -1,46 +1,54 @@
-# Ayan Ospan
+# Hi, I'm Ayan Ospan
 
-Electrical Engineering student at Penn State focused on robotics, embedded systems, controls, and software-heavy engineering projects.
+Electrical Engineering student at Penn State interested in robotics, embedded
+systems, controls, and software-intensive engineering.
 
-I build projects that connect hardware, software, and real-world systems: robotics with ROS, embedded/digital systems, distributed backend systems, and productivity tools.
+I build projects at the intersection of hardware and software—from autonomous
+robots and digital systems to distributed infrastructure and developer tools.
 
-## Current Focus
+[LinkedIn](https://www.linkedin.com/in/ayan-ospan) ·
+[GitHub](https://github.com/marstankeldim)
 
-- Robotics and autonomous systems with ROS/Duckietown
+## Featured projects
+
+### [Distributed Key-Value Store](https://github.com/marstankeldim/dkvs)
+
+A C++ distributed systems project exploring key-value storage, replication,
+consistency tradeoffs, and fault tolerance.
+
+`C++` `Networking` `Distributed Systems`
+
+### [Engineering Study Platform](https://github.com/marstankeldim/engstudy)
+
+An AI-powered platform that helps engineering students organize concepts,
+practice problems, and technical course material.
+
+`TypeScript` `Full-Stack Development` `AI`
+
+### [JobMaster](https://github.com/marstankeldim/jobmaster)
+
+A Chrome extension for tailoring job applications with customized resumes and
+cover letters.
+
+`JavaScript` `Chrome Extensions` `Automation`
+
+## What I'm working on
+
+- Autonomous navigation with ROS and Duckietown, including image processing,
+  odometry, and PID lane control
 - Embedded systems and digital design
 - C++ systems programming
 - Distributed systems and backend infrastructure
 - Full-stack tools for engineering productivity
 
-## Featured Projects
+## Technical skills
 
-### Distributed Key-Value Store
-C++ distributed systems project exploring key-value storage, replication, consistency tradeoffs, and fault tolerance.
+- **Languages:** C++, Python, TypeScript, JavaScript, MATLAB
+- **Robotics and systems:** ROS, Linux, Git, Docker
+- **Electrical and embedded:** digital logic, circuit design, controls, and
+  embedded systems
 
-**Tech:** C++, networking, distributed systems, systems design
+## Currently seeking
 
-### Engineering Study Platform
-AI-powered platform for helping engineering students organize concepts, practice problems, and technical course material.
-
-**Tech:** TypeScript, full-stack development, AI tools
-
-### ROS / Duckietown Robotics
-Robotics project using ROS and Duckietown to work on autonomous navigation concepts including image processing, odometry, and PID lane control.
-
-**Tech:** ROS, Python, Linux, robotics, controls
-
-### JobMaster
-Chrome extension for tailoring job applications with custom resumes and cover letters.
-
-**Tech:** JavaScript, Chrome extensions, automation
-
-## Technical Skills
-
-**Languages:** C++, Python, TypeScript, JavaScript, MATLAB  
-**Systems:** ROS, Linux, Git, Docker  
-**Electrical/Embedded:** Digital logic, circuit design, controls, embedded systems  
-**Interests:** Robotics, autonomous systems, embedded software, distributed systems, computer architecture
-
-## Currently Seeking
-
-Summer 2027 internships in electrical engineering, robotics, embedded systems, controls, systems engineering, or software-heavy hardware roles.
+Summer 2027 internships in electrical engineering, robotics, embedded systems,
+controls, systems engineering, or software-intensive hardware roles.
