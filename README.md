@@ -1,54 +1,46 @@
-# Hi, I'm Ayan Ospan
+# Ayan Ospan
 
-Electrical Engineering student at Penn State interested in robotics, embedded
-systems, controls, and software-intensive engineering.
+**Electrical Engineering @ Penn State** — I build at the layer where hardware meets
+software: where a control loop is only as good as the code running it, and code has
+to answer to physics.
 
-I build projects at the intersection of hardware and software—from autonomous
-robots and digital systems to distributed infrastructure and developer tools.
+> **Seeking Summer 2027 internships** in robotics, embedded systems, or controls —
+> also open to systems engineering and software-intensive hardware roles.
 
-[LinkedIn](https://www.linkedin.com/in/ayan-ospan) ·
-[GitHub](https://github.com/marstankeldim)
+Pennsylvania, USA · [LinkedIn](https://www.linkedin.com/in/ayan-ospan) ·
+[X @ayan_ospan](https://x.com/ayan_ospan) ·
+[ayan.ospan@gmail.com](mailto:ayan.ospan@gmail.com)
 
-## Featured projects
+---
 
-### [Distributed Key-Value Store](https://github.com/marstankeldim/dkvs)
+## Now
 
-A C++ distributed systems project exploring key-value storage, replication,
-consistency tradeoffs, and fault tolerance.
+- **Autonomous navigation — EE 483, Penn State.** A Duckietown robot running ROS:
+  an image-processing pipeline finds the lane, odometry estimates where the robot
+  actually is, and PID control keeps it tracking. The full loop — perceive,
+  estimate, act — on real hardware, where sensors are noisy and timing matters.
+- Actively building [dkvs](https://github.com/marstankeldim/dkvs),
+  [ai_benchmark](https://github.com/marstankeldim/ai_benchmark), and
+  [aqsha](https://github.com/marstankeldim/aqsha).
 
-`C++` `Networking` `Distributed Systems`
+## Projects
 
-### [Engineering Study Platform](https://github.com/marstankeldim/engstudy)
+| Project | What it is | Built with |
+|---|---|---|
+| [**dkvs**](https://github.com/marstankeldim/dkvs) | Distributed key-value store, built from scratch to understand what replication actually costs — consistency tradeoffs and fault tolerance with nothing abstracted away | C++ |
+| [**ai_benchmark**](https://github.com/marstankeldim/ai_benchmark) | AI evaluation benchmark for finding the most efficient model per task — "best model" means nothing without a workload attached | TypeScript |
+| [**aqsha**](https://github.com/marstankeldim/aqsha) | Personal finance platform | TypeScript |
+| [**engstudy**](https://github.com/marstankeldim/engstudy) | AI-powered study platform that helps engineering students organize concepts, practice problems, and course material | TypeScript |
+| [**jobmaster**](https://github.com/marstankeldim/jobmaster) | Chrome extension that tailors job applications with custom resumes and cover letters | JavaScript |
 
-An AI-powered platform that helps engineering students organize concepts,
-practice problems, and technical course material.
-
-`TypeScript` `Full-Stack Development` `AI`
-
-### [JobMaster](https://github.com/marstankeldim/jobmaster)
-
-A Chrome extension for tailoring job applications with customized resumes and
-cover letters.
-
-`JavaScript` `Chrome Extensions` `Automation`
-
-## What I'm working on
-
-- Autonomous navigation with ROS and Duckietown, including image processing,
-  odometry, and PID lane control
-- Embedded systems and digital design
-- C++ systems programming
-- Distributed systems and backend infrastructure
-- Full-stack tools for engineering productivity
-
-## Technical skills
+## Skills
 
 - **Languages:** C++, Python, TypeScript, JavaScript, MATLAB
-- **Robotics and systems:** ROS, Linux, Git, Docker
-- **Electrical and embedded:** digital logic, circuit design, controls, and
-  embedded systems
+- **Robotics & systems:** ROS, Linux, Docker, Git
+- **EE:** digital logic, circuit design, controls, embedded systems
 
-## Currently seeking
+---
 
-Summer 2027 internships in electrical engineering, robotics, embedded systems,
-controls, systems engineering, or software-intensive hardware roles.
+Open to conversations about internships and robotics/embedded projects — the
+fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ayan-ospan)
+or [email](mailto:ayan.ospan@gmail.com).
