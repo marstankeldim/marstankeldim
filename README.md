@@ -4,7 +4,7 @@
 software: where a control loop is only as good as the code running it, and code has
 to answer to physics.
 
-> **Seeking Summer 2027 internships** in robotics, embedded systems, or controls —
+> **Seeking Summer 2027 internships** in robotics, software, or controls —
 > also open to systems engineering and software-intensive hardware roles.
 
 Pennsylvania, USA · [LinkedIn](https://www.linkedin.com/in/ayan-ospan) ·
