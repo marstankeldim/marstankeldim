@@ -7,7 +7,8 @@ and AI evaluation tooling.
 > **Seeking Summer 2027 internships** in robotics, software, or controls —
 > also open to systems engineering and software-intensive hardware roles.
 
-Pennsylvania, USA · [LinkedIn](https://www.linkedin.com/in/ayan-ospan) ·
+Pennsylvania, USA · [ayan-ospan.com](https://ayan-ospan.com) ·
+[LinkedIn](https://www.linkedin.com/in/ayan-ospan) ·
 [X @ayan_ospan](https://x.com/ayan_ospan) ·
 [ayan.ospan@gmail.com](mailto:ayan.ospan@gmail.com)
 
