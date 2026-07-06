@@ -1,8 +1,8 @@
 # Ayan Ospan
 
-**Electrical Engineering @ Penn State** — I build at the layer where hardware meets
-software: where a control loop is only as good as the code running it, and code has
-to answer to physics.
+Electrical Engineering @ Penn State building robotics, embedded systems, and
+distributed systems. Currently focused on ROS navigation, C++ systems projects,
+and AI evaluation tooling.
 
 > **Seeking Summer 2027 internships** in robotics, software, or controls —
 > also open to systems engineering and software-intensive hardware roles.
@@ -12,6 +12,21 @@ Pennsylvania, USA · [LinkedIn](https://www.linkedin.com/in/ayan-ospan) ·
 [ayan.ospan@gmail.com](mailto:ayan.ospan@gmail.com)
 
 ---
+
+## Featured work
+
+**[dkvs](https://github.com/marstankeldim/dkvs)** · `C++`
+Distributed key-value store, built from scratch to understand what replication
+actually costs — consistency tradeoffs and fault tolerance with nothing
+abstracted away. *Active.*
+
+**[ai_benchmark](https://github.com/marstankeldim/ai_benchmark)** · `TypeScript`
+AI evaluation benchmark for finding the most efficient model per task —
+"best model" means nothing without a workload attached. *Active.*
+
+**[jobmaster](https://github.com/marstankeldim/jobmaster)** · `JavaScript`
+Chrome extension that tailors resumes and cover letters for job applications.
+*Shipped.*
 
 ## Now
 
@@ -23,15 +38,12 @@ Pennsylvania, USA · [LinkedIn](https://www.linkedin.com/in/ayan-ospan) ·
   [ai_benchmark](https://github.com/marstankeldim/ai_benchmark), and
   [aqsha](https://github.com/marstankeldim/aqsha).
 
-## Projects
+## Other projects
 
 | Project | What it is | Built with |
 |---|---|---|
-| [**dkvs**](https://github.com/marstankeldim/dkvs) | Distributed key-value store, built from scratch to understand what replication actually costs — consistency tradeoffs and fault tolerance with nothing abstracted away | C++ |
-| [**ai_benchmark**](https://github.com/marstankeldim/ai_benchmark) | AI evaluation benchmark for finding the most efficient model per task — "best model" means nothing without a workload attached | TypeScript |
 | [**aqsha**](https://github.com/marstankeldim/aqsha) | Personal finance platform | TypeScript |
 | [**engstudy**](https://github.com/marstankeldim/engstudy) | AI-powered study platform that helps engineering students organize concepts, practice problems, and course material | TypeScript |
-| [**jobmaster**](https://github.com/marstankeldim/jobmaster) | Chrome extension that tailors job applications with custom resumes and cover letters | JavaScript |
 
 ## Skills
 
