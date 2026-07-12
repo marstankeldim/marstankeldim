@@ -50,6 +50,8 @@ Chrome extension that tailors resumes and cover letters for job applications.
 
 | Project | What it is | Built with |
 |---|---|---|
+| [**almaty**](https://github.com/marstankeldim/almaty) | Cinematic WebGL atlas of Kazakhstan — a globe intro dives into explorable locations built from real elevation data, satellite imagery, and PBR materials | JavaScript · Three.js |
+| [**autoresearch**](https://github.com/marstankeldim/autoresearch) | AI agents autonomously running training experiments on single-GPU nanochat | Python |
 | [**aqsha**](https://github.com/marstankeldim/aqsha) | Personal finance platform | TypeScript |
 | [**engstudy**](https://github.com/marstankeldim/engstudy) | AI-powered study platform that helps engineering students organize concepts, practice problems, and course material | TypeScript |
 
