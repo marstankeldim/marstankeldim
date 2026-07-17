@@ -75,4 +75,4 @@ or [email](mailto:ayan.ospan@gmail.com).</sub>
 
 ## Passion Project
 
-I am also building a webpage where I try to show Kazakhstan's beauty. Visit [website](home.ayan-ospan.com)
+I am also building a webpage where I try to show Kazakhstan's beauty. Visit [home.ayan-ospan.com](home.ayan-ospan.com)
