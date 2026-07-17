@@ -70,3 +70,9 @@ Chrome extension that tailors resumes and cover letters for job applications.
 <sub>Open to conversations about internships and robotics/embedded projects — the
 fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/ayan-ospan)
 or [email](mailto:ayan.ospan@gmail.com).</sub>
+
+
+
+## Passion Project
+
+I am also building a webpage where I try to show Kazakhstan's beauty. Visit home.ayan-ospan.com
