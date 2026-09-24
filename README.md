@@ -21,25 +21,33 @@ Pennsylvania, USA · [ayan-ospan.com](https://ayan-ospan.com) ·
 
 ## Featured work
 
-**[dkvs](https://github.com/marstankeldim/dkvs)** · `C++`
-Distributed key-value store, built from scratch to understand what replication
-actually costs — consistency tradeoffs and fault tolerance with nothing
-abstracted away. *Active.*
+**[dkvs](https://github.com/marstankeldim/dkvs)** · `C++20`
+Fault-tolerant, replicated key-value store built from scratch — an original
+Raft implementation with a CRC-checked write-ahead log, automatic sub-second
+failover, and zero external runtime dependencies. *Active.*
 
 **[ai_benchmark](https://github.com/marstankeldim/ai_benchmark)** · `TypeScript`
-AI evaluation benchmark for finding the most efficient model per task —
-"best model" means nothing without a workload attached. *Active.*
+Reproducible LLM benchmarking platform — 7 providers, pluggable judges, and
+statistically honest results (confidence intervals, significance tests, Elo)
+instead of raw score deltas. *Active.*
 
 **[jobmaster](https://github.com/marstankeldim/jobmaster)** · `JavaScript`
 Chrome extension that tailors resumes and cover letters for job applications.
 *Shipped.*
 
+## Research
+
+**Ontology-Grounded Test Adequacy (CETA)** — independently authored and
+presented at the **ITEA Cybersecurity T&E Workshop 2026**. A formal framework
+for cyber test sufficiency using OWL 2 knowledge graphs and DoD-aligned attack
+path analysis. Awarded the **Min Kim Scholarship** ($2,500) as the workshop's
+selected student presenter.
+
 ## Now
 
 - **Autonomous navigation — EE 483, Penn State.** A Duckietown robot running ROS:
   an image-processing pipeline finds the lane, odometry estimates where the robot
-  actually is, and PID control keeps it tracking. The full loop — perceive,
-  estimate, act — on real hardware, where sensors are noisy and timing matters.
+  actually is, and PID control keeps it tracking.
 - Actively building [dkvs](https://github.com/marstankeldim/dkvs),
   [ai_benchmark](https://github.com/marstankeldim/ai_benchmark), and
   [aqsha](https://github.com/marstankeldim/aqsha).
@@ -51,17 +59,18 @@ Chrome extension that tailors resumes and cover letters for job applications.
 | Project | What it is | Built with |
 |---|---|---|
 | [**almaty**](https://github.com/marstankeldim/almaty) | Cinematic WebGL atlas of Kazakhstan — a globe intro dives into explorable locations built from real elevation data, satellite imagery, and PBR materials | JavaScript · Three.js |
-| [**autoresearch**](https://github.com/marstankeldim/autoresearch) | AI agents autonomously running training experiments on single-GPU nanochat | Python |
-| [**aqsha**](https://github.com/marstankeldim/aqsha) | Personal finance platform | TypeScript |
-| [**engstudy**](https://github.com/marstankeldim/engstudy) | AI-powered study platform that helps engineering students organize concepts, practice problems, and course material | TypeScript |
+| [**preview_kaz**](https://github.com/marstankeldim/preview_kaz) | "The Living Land" — interactive WebGL gallery of six Kazakhstan landscapes with real-time video-texture compositing | JavaScript · WebGL |
+| [**aqsha**](https://github.com/marstankeldim/aqsha) | Personal finance platform — 16-model schema, atomic transactions, multi-currency | TypeScript |
+| [**engstudy**](https://github.com/marstankeldim/engstudy) | AI-powered study platform with a full RAG pipeline from course PDF to grounded tutor | TypeScript |
+| [**autoresearch**](https://github.com/marstankeldim/autoresearch) | Exploring AI agents autonomously running training experiments (fork of nanochat autoresearch) | Python |
 
 </details>
 
 ## Skills
 
-**Languages** — `C++` `Python` `TypeScript` `JavaScript` `MATLAB`
+**Languages** — `C++20` `Python` `TypeScript` `Java` `Verilog` `MATLAB`
 
-**Robotics & systems** — `ROS` `Linux` `Docker` `Git`
+**Systems** — `Raft consensus` `ROS` `Linux` `Docker` `Git`
 
 **EE** — `digital logic` `circuit design` `controls` `embedded systems`
 
